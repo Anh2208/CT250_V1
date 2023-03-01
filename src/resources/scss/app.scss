@@ -1,0 +1,10 @@
+@import '_variables';
+
+.test{
+    border: 1px solid $red-color;
+    color: red;
+    background-color: aqua; 
+}
+h1{
+    color: $red-color;
+}
